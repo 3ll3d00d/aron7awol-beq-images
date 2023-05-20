@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="google-site-verification" content="J96WEPqkiIE78SXTiewFkCq7KfZFd4TW81WuRLWUQQY" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+<script src="https://kit.fontawesome.com/7987f3553f.js" crossorigin="anonymous"></script>
+<link rel="icon" href="/images/favicon.ico" />
+<title>Page Not Found - fanart.tv</title>
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="https://fanart.tv/wp-content/themes/fanart-two/style.css?d=2021-11-26" />
+<link rel="pingback" href="https://fanart.tv/xmlrpc.php" />
+<meta property="og:image" content="https://fanart.tv/wp-content/uploads/2017/09/discord-activity-150x150.jpg" /><meta name='robots' content='noindex, follow' />
+
+<meta property="og:locale" content="en_US" class="yoast-seo-meta-tag" />
+<meta property="og:title" content="Page Not Found - fanart.tv" class="yoast-seo-meta-tag" />
+<meta property="og:site_name" content="fanart.tv" class="yoast-seo-meta-tag" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://fanart.tv/#website","url":"https://fanart.tv/","name":"fanart.tv","description":"Making the most of your media collection","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://fanart.tv/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='stylesheet' id='fancyboxstyle-css' href='https://fanart.tv/js/fancybox/jquery.fancybox-1.3.4.css?ver=6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrapfile-css' href='https://fanart.tv/wp-content/themes/fanart-two/css/bootstrap.min.css?ver=6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://fanart.tv/wp-includes/css/dashicons.css?ver=6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css' href='https://fanart.tv/wp-includes/css/admin-bar.css?ver=6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://fanart.tv/wp-includes/css/dist/block-library/style.css?ver=6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-login-form-block-css' href='https://fanart.tv/wp-content/plugins/buddypress/bp-core/css/blocks/login-form.css?ver=10.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-member-block-css' href='https://fanart.tv/wp-content/plugins/buddypress/bp-members/css/blocks/member.css?ver=10.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-members-block-css' href='https://fanart.tv/wp-content/plugins/buddypress/bp-members/css/blocks/members.css?ver=10.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-dynamic-members-block-css' href='https://fanart.tv/wp-content/plugins/buddypress/bp-members/css/blocks/dynamic-members.css?ver=10.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-latest-activities-block-css' href='https://fanart.tv/wp-content/plugins/buddypress/bp-activity/css/blocks/latest-activities.css?ver=10.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-friends-block-css' href='https://fanart.tv/wp-content/plugins/buddypress/bp-friends/css/blocks/friends.css?ver=10.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-group-block-css' href='https://fanart.tv/wp-content/plugins/buddypress/bp-groups/css/blocks/group.css?ver=10.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-groups-block-css' href='https://fanart.tv/wp-content/plugins/buddypress/bp-groups/css/blocks/groups.css?ver=10.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-dynamic-groups-block-css' href='https://fanart.tv/wp-content/plugins/buddypress/bp-groups/css/blocks/dynamic-groups.css?ver=10.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-sitewide-notices-block-css' href='https://fanart.tv/wp-content/plugins/buddypress/bp-messages/css/blocks/sitewide-notices.css?ver=10.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://fanart.tv/wp-includes/css/classic-themes.css?ver=6.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='bp-admin-bar-css' href='https://fanart.tv/wp-content/plugins/buddypress/bp-core/css/admin-bar.css?ver=10.6.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pmpro_frontend-css' href='https://fanart.tv/wp-content/plugins/paid-memberships-pro/css/frontend.css?ver=2.9.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='pmpro_print-css' href='https://fanart.tv/wp-content/plugins/paid-memberships-pro/css/print.css?ver=2.9.7' type='text/css' media='print' />
+<link rel='stylesheet' id='wpdonations-frontend-css' href='https://fanart.tv/wp-content/plugins/wpdonations/assets/css/frontend.css?ver=6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mass_messaging_in_buddypress-frontend-css' href='https://fanart.tv/wp-content/plugins/mass-messaging-in-buddypress/assets/css/frontend.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='recent-posts-widget-with-thumbnails-public-style-css' href='https://fanart.tv/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=7.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://fanart.tv/wp-content/plugins/tablepress/css/default.css?ver=1.14' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-custom-css' href='https://fanart.tv/wp-content/tablepress-custom.css?ver=48' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-paginate-css' href='https://fanart.tv/wp-content/plugins/wp-paginate/css/wp-paginate.css?ver=2.2.0' type='text/css' media='screen' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js?ver=6.2' id='jquery-js'></script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js?ver=6.2' id='jqueryui-js'></script>
+<script type='text/javascript' id='bp-confirm-js-extra'>
+/* <![CDATA[ */
+var BP_Confirm = {"are_you_sure":"Are you sure?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://fanart.tv/wp-content/plugins/buddypress/bp-core/js/confirm.js?ver=10.6.0' id='bp-confirm-js'></script>
+<script type='text/javascript' id='wcd_voting_scripts-js-extra'>
+/* <![CDATA[ */
+var wcd_voting_ajax = {"ajaxurl":"https:\/\/fanart.tv\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://fanart.tv/wp-content/plugins/love-post-voting/js/general.js?ver=4.0.1' id='wcd_voting_scripts-js'></script>
+<script type='text/javascript' id='dtheme-ajax-js-js-extra'>
+/* <![CDATA[ */
+var BP_DTheme = {"my_favs":"My Favorites","accepted":"Accepted","rejected":"Rejected","show_all_comments":"Show all comments for this thread","show_all":"Show all","comments":"comments","close":"Close","view":"View"};
+var BP_DTheme = {"my_favs":"My Favorites","accepted":"Accepted","rejected":"Rejected","show_all_comments":"Show all comments for this thread","show_x_comments":"Show all %d comments","show_all":"Show all","comments":"comments","close":"Close","view":"View","mark_as_fav":"Favorite","remove_fav":"Remove Favorite","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://fanart.tv/wp-content/plugins/buddypress//bp-themes/bp-default/_inc/global.js?ver=10.6.0' id='dtheme-ajax-js-js'></script>
+<script type='text/javascript' src='https://fanart.tv/wp-content/plugins/mass-messaging-in-buddypress/assets/js/frontend.js?ver=2.2.1' id='mass_messaging_in_buddypress-frontend-js'></script>
+<script type='text/javascript' src='https://fanart.tv/wp-content/plugins/buddypress/bp-core/js/jquery-query.js?ver=10.6.0' id='bp-jquery-query-js'></script>
+<script type='text/javascript' src='https://fanart.tv/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-cookie.js?ver=10.6.0' id='bp-jquery-cookie-js'></script>
+<link rel="https://api.w.org/" href="https://fanart.tv/wp-json/" /><meta name="generator" content="WordPress 6.2" />
+<script type="text/javascript">var ajaxurl = 'https://fanart.tv/wp-admin/admin-ajax.php';</script>
+<meta name="ip" content="82.21.163.31"> 
+<link rel="shorturl" href="https://fanart.tv/WVdLF">
+<link rel="shortlink" href="https://fanart.tv/WVdLF">
+
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+	}
+</style>
+<link rel="icon" href="https://fanart.tv/wp-content/uploads/2020/08/cropped-logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://fanart.tv/wp-content/uploads/2020/08/cropped-logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://fanart.tv/wp-content/uploads/2020/08/cropped-logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://fanart.tv/wp-content/uploads/2020/08/cropped-logo-270x270.png" />
+<style type="text/css" id="wp-custom-css">
+			/* Edits by Akovia */
+
+/* Formatting for the Why You Artwork May Be Denied Tutorial */
+.why-denied-block {
+	padding: 1em !important;
+	border-radius: 2em !important;
+	box-shadow: 0 1px 10px 2px rgb(0 0 0 / 30%);
+}		</style>
+<style>
+.gsc-control-cse {
+	background-color: transparent!important;
+	border: none!important;
+}
+input.gsc-input {
+	padding:10px!important;
+	font-size:18px!important;
+	box-shadow: none!important;
+	background-position: 10px center!important;
+}
+.gsc-input-box {
+	border-radius: 3px;
+}
+.gsc-search-button-v2 {
+	padding: 19px 40px!important;
+    display: flex;
+    border-radius: 3px!important;
+	border: none!important;
+	background: 
+}
+.fullpage .content {
+	display: flex;
+    flex-direction: column;
+}
+#message.info {
+    color: #fff;
+    text-align: center;
+}
+#message.info p a {
+	text-decoration: underlne;
+	color: #1e667a;
+}
+</style>
+</head>
+<body class="bp-nouveau error404 admin-bar no-customize-support">
+<div id="generic">
+<div id="top-header">
+<div class="container">
+
+<a id="logo" href="/">fanart.tv<span>Making the most of your media collection</span></a>
+<div id="access" class="mainnav" role="navigation">
+<div class="menu-header"><ul id="menu-main" class="menu"><li id="menu-item-22351" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22351"><a href="https://wiki.fanart.tv/General/vip/">VIP</a></li>
+<li id="menu-item-22346" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22346"><a target="_blank" rel="noopener" href="https://wiki.fanart.tv/">Wiki</a></li>
+<li id="menu-item-6046" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6046"><a href="#">Artwork</a>
+<ul class="sub-menu">
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="https://fanart.tv/tv-fanart/">TV</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="https://fanart.tv/music-fanart/">Music</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="https://fanart.tv/movie-fanart/">Movies</a></li>
+<li id="menu-item-21681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21681"><a href="https://fanart.tv/activity/">Site-Wide Activity</a></li>
+</ul>
+</li>
+<li id="menu-item-6050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6050"><a href="#">About</a>
+<ul class="sub-menu">
+<li id="menu-item-18998" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18998"><a href="https://fanart.tv/newsletter/">Newsletters</a></li>
+<li id="menu-item-7517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7517"><a href="https://fanart.tv/contributors/">Contributors</a></li>
+<li id="menu-item-22258" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22258"><a href="https://wiki.fanart.tv/General/staff/">Staff</a></li>
+<li id="menu-item-6600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6600"><a href="https://fanart.tv/mod-actions/">Moderation   Statistics</a></li>
+<li id="menu-item-3640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3640"><a href="https://fanart.tv/the-associated-fanart/">A.F. Members</a></li>
+<li id="menu-item-6051" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6051"><a href="https://fanart.tv/history/">History</a></li>
+</ul>
+</li>
+<li id="menu-item-6048" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6048"><a>Support</a>
+<ul class="sub-menu">
+<li id="menu-item-22347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22347"><a href="https://discord.gg/r9VufRk">Get Help</a></li>
+<li id="menu-item-18942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18942"><a href="/tutorials/">Tutorials</a></li>
+<li id="menu-item-18997" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18997"><a href="https://wiki.fanart.tv/General/moderation%20time/">Moderation Time</a></li>
+<li id="menu-item-18996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18996"><a href="https://fanart.tv/tutorials/artwork-may-denied/">Why your image might be denied</a></li>
+</ul>
+</li>
+<li id="menu-item-6486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6486"><a href="https://fanart.tv/contribute/">Donate</a></li>
+<li id="menu-item-20257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20257"><a href="https://fanart.tv/sponsors/">Sponsors</a></li>
+</ul></div> </div>
+</div>
+</div>
+<div class="container">
+ <div style="display: flex; justify-content: center; flex-direction: column;">
+
+<div style="margin-left: 30px;">
+<form x-data="{
+			search: '',
+			hits: [], 
+			section: {
+				key: 'everything', 
+				value: 'Everything'
+			},
+			sections: [{
+				key: 'everything', 
+				value: 'Everything',
+			},
+			{
+				key: 'music', 
+				value: 'Music',
+			},
+			{
+				key: 'movies', 
+				value: 'Movies',
+			},
+			{
+				key: 'tv', 
+				value: 'TV',
+			}],
+			async lookup() {
+				if(this.search !== '') {
+					this.hits = await (await fetch('/api/search.php?section=' + this.section.key + '&s=' + this.search)).json()
+				} else {
+					this.hits = []
+				}
+			},
+			check() {
+				if(this.search.length > 0) this.lookup()
+			}
+		  }" x-init="search = $refs.search.value" id="myForm2" action="/" method="get" _lpchecked="1">
+<input type="hidden" id="searchtype" name="sect" value="all">
+<div class="searchbg" style="margin: 40px 0 20px; position: relative;">
+<div @click.away="hits = []" class="input-append" style="margin-bottom: 0px;">
+<input @click="check()" x-on:keyup="search = $event.target.value; lookup()" x-ref="search" name="s" type="text" placeholder="Search..." class="link-box link-search input-block-level" value="">
+<div class="btn-group">
+<button class="btn btn-primary btn-large button-search" x-text="section.value"></button>
+<button class="btn btn-primary btn-large dropdown-toggle" data-toggle="dropdown"> <span class="caret"></span> </button>
+<ul class="dropdown-menu">
+<template x-for="sect in sections">
+<li><a @click.prevent="section = sect;  lookup()" x-text="sect.value"></a></li>
+</template>
+</ul>
+</div>
+</div>
+<template x-for="hit in hits">
+<a :href="hit.link" style="display: flex; align-items: center; padding: 5px; margin: 5px -234px 5px 0; border-radius: 5px; background: #00000038;">
+<img style="margin-right: 30px;" width="80" :src="hit.poster || 'https://fanart.tv/images/logo_300.png'" :alt="hit.title" />
+<span style="display: flex; flex-direction: column;">
+<span x-text="hit.title"></span>
+<span style="color: #ffffff4f" x-text="hit.type"></span>
+</span>
+<span style="margin-left: auto; width: 196px; text-align: center;" x-text="hit.image_count+' images'"></span>
+</a>
+</template>
+
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="container">
+<h1>Not Found</h1>
+<p>Apologies, but the page you requested could not be found. Perhaps searching will help.</p>
+<form role="search" method="get" id="searchform" class="searchform" action="https://fanart.tv/">
+<div>
+<label class="screen-reader-text" for="s">Search for:</label>
+<input type="text" value="" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="Search" />
+</div>
+</form>
+<script type="text/javascript">
+		// focus on search field after it has loaded
+		document.getElementById('s') && document.getElementById('s').focus();
+	</script>
+</div>
+<div id="sitefooter">
+<div class="container">
+<ul class="first">
+<h2>General</h2>
+<li><i class="icon-home icon-white"></i><a href="/">Home</a></li>
+<li><i class="icon-check icon-white"></i><a href="/tv-fanart/">TV Fanart</a></li>
+<li><i class="icon-headphones icon-white"></i><a href="/music-fanart/">Music Fanart</a></li>
+<li><i class="icon-facetime-video icon-white"></i><a href="/movie-fanart/">Movie Fanart</a></li>
+<li><i class="icon-time icon-white"></i><a href="/activity/">Activity</a></li>
+</ul>
+<ul>
+<h2>Help</h2>
+<li><i class="icon-fire icon-white"></i><a href="/getting-started/">Getting started</a></li>
+<li><i class="icon-envelope icon-white"></i><a href="/forums/">Forum</a></li>
+<li><i class="icon-leaf icon-white"></i><a href="/skin-support/">Skin support</a></li>
+<li><i class="icon-heart icon-white"></i><a href="/contribute/">Donations</a></li>
+<li><i class="icon-pencil icon-white"></i><a href="/terms-and-conditions/">Terms & conditions</a></li>
+<li><i class="icon-exclamation-sign icon-white"></i><a href="/privacy-policy/">Privacy policy</a></li>
+<li><i class="icon-time icon-white"></i><a href="/history/">History</a></li>
+<li><i class="icon-share-alt icon-white"></i><a href="http://forum.fanart.tv/viewtopic.php?f=14&t=21">IRC</a></li>
+</ul>
+<ul>
+<h2>API</h2>
+<li><i class="icon-download icon-white"></i><a href="/get-an-api-key/">Create a key</a></li>
+<li><i class="icon-book icon-white"></i><a href="https://fanarttv.docs.apiary.io/">API v3</a></li>
+</ul>
+<ul>
+<h2>Links</h2>
+<li><i class="icon-share-alt icon-white"></i><a href="https://kodi.tv/" target="_blank">Kodi</a></li>
+<li><i class="icon-share-alt icon-white"></i><a href="https://emby.media/" target="_blank">emby</a></li>
+<li><i class="icon-share-alt icon-white"></i><a href="http://trakt.tv/" target="_blank">trakt.tv</a></li>
+<li><i class="icon-share-alt icon-white"></i><a href="http://www.theaudiodb.com/" target="_blank">theaudiodb</a></li>
+<li><i class="icon-share-alt icon-white"></i><a href="http://www.themoviedb.org/" target="_blank">themoviedb</a></li>
+<li><i class="icon-share-alt icon-white"></i><a href="http://thetvdb.com/" target="_blank">thetvdb</a></li>
+<li><i class="icon-share-alt icon-white"></i><a href="https://musicbrainz.org/" target="_blank">musicbrainz</a></li>
+</ul>
+<ul class="social-icons">
+<h2>Follow us</h2>
+<li><span class="social-circle small blog"><i class="fa fa-book"></i></span><a href="/blog/">Our Blog</a></li>
+<li><span class="social-circle small facebook"><i class="fa fa-facebook"></i></span><a href="https://www.facebook.com/fanart.tv/" target="_blank">Facebook</a></li>
+<li><span class="social-circle small gplus"><i class="fa fa-google-plus"></i></span><a href="https://plus.google.com/+FanartTv0/" target="_blank">Google+</a></li>
+<li><span class="social-circle small twitter"><i class="fa fa-twitter"></i></span><a href="https://twitter.com/#!/fanartdottv" target="_blank">Twitter</a></li>
+<li><span class="social-circle small youtube"><i class="fa fa-youtube"></i></span><a href="https://www.youtube.com/user/fanartdottv" target="_blank">Youtube</a></li>
+<li><span class="social-circle small rss"><i class="fa fa-rss"></i></span><a href="/feed/" target="_blank">RSS Feed</a></li>
+</ul>
+</div>
+</div>
+<div id="dl-queue">
+</div>
+
+<style id='core-block-supports-inline-css' type='text/css'>
+/**
+ * Core styles: block-supports
+ */
+
+</style>
+<script type='text/javascript' src='https://fanart.tv/js/bootstrap.min.js?ver=null' id='bootstrapjs-js'></script>
+<script type='text/javascript' src='https://fanart.tv/js/jquery.dialog2.js?ver=null' id='dialog2-js'></script>
+<script type='text/javascript' src='https://fanart.tv/js/fancybox/jquery.fancybox-1.3.4.pack.js?ver=null' id='fancybox-js'></script>
+<script type='text/javascript' src='https://fanart.tv/js/script.js?ver=4' id='fanart-js'></script>
+<script type='text/javascript' src='https://fanart.tv/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
+<script type='text/javascript' src='https://fanart.tv/wp-includes/js/admin-bar.js?ver=6.2' id='admin-bar-js'></script>
+<div id="wpadminbar" class="nojq nojs">
+<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true"><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">About WordPress</span></div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://wordpress.org/documentation/'>Documentation</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/forums/'>Support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li id='wp-admin-bar-bp-login'><a class='ab-item' href='https://fanart.tv/wp-login.php?redirect_to=https%3A%2F%2Ffanart.tv%2Ffanart%2Fmovies%2F150540%2Fmoviethumb%2Finside-out-59f5d19f044f0.jpg'>Log In</a></li><li id='wp-admin-bar-bp-register'><a class='ab-item' href='https://fanart.tv/wp-login.php?action=register'>Register</a></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://fanart.tv/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search" /></form></div></li></ul> </div>
+</div>
+</div>
+
+<script>
+/*(function($) {
+	var angle = 0;
+	setInterval(function(){
+		  angle+=3;
+		 $("#artist ul.cdart img.preview, ul.moviedisc img.preview").not('.replace').rotate(angle);
+	},50);
+	
+	var angle2 = 0;
+	setInterval(function(){
+		  angle2+=3;
+		 $(".cdart img.preview, .moviedisc img.preview").not('.replace').rotate(angle2);
+	},50);
+})(jQuery);*/
+</script>
+</body>
+</html>
+
